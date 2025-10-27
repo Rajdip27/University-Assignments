@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761538196 source:c:\users\piistech\onedrive\desktop\new folder (3)\sms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
